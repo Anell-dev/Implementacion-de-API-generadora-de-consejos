@@ -2,9 +2,9 @@
 
 ## Bienvenido!👋
 
-Aqui puedes ver el resultado final -> []()
+Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Implementacion-de-API-generadora-de-consejos/](https://anell-dev.github.io/Implementacion-de-API-generadora-de-consejos/)
 
-### The challenge
+### El reto
 
 Los usuarios deben poder:
 
@@ -18,10 +18,10 @@ Los usuarios deben poder:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/Anell-dev/Implementacion-de-API-generadora-de-consejos](https://github.com/Anell-dev/Implementacion-de-API-generadora-de-consejos)
+- Live Site URL: [https://anell-dev.github.io/Implementacion-de-API-generadora-de-consejos/](https://anell-dev.github.io/Implementacion-de-API-generadora-de-consejos/)
 
-### Built with
+### Construido con
 
 - HTML
 - CSS
